@@ -1,0 +1,4 @@
+Sample questions:
+    > What is the pace for a { minute } { numericDistance } {distanceUnit}?
+    > How long is a {numericDistance} {distanceUnit} at {minute} minutes per { inputDistanceUnit }
+
